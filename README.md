@@ -2,8 +2,8 @@
 Hey there! I'm Rohan Vinay Chaudhary 👨‍💻, <br> in my final stretch at VIT-B, diving deep into AI and ML with an MTech in CSE 🧠🤖.<br> My tech toolkit includes coding, data wrangling, deep learning, and AI innovation 🔍🚀.<br> When not coding, you'll find me immersed in creative content creation 🎨📹, graphic design, video stuff and contributing to world.<br> <hr> Always learning, always creating, that's me! 🌟🔧
 
 [🔗 Portfolio](https://rohanrvc.pythonanywhere.com/)
-
-
+<br>
+[📄 Resume](https://drive.google.com/file/d/1_CY5tTQfOhiKTzyntP9nS2KTGf9b2xfI/view?usp=drive_link)
 
 
 
