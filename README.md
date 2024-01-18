@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi i'm Rohan Vinay Chaudhary 🙋‍♂️✋,<br>I am an Python Developer 🐍<br>Diving Deep Into AI🤿<br>Web3 and BLockChain Enthusiasts 🔗
+Hey there! I'm Rohan Vinay Chaudhary 👨‍💻, <br> in my final stretch at VIT-B, diving deep into AI and ML with an MTech in CSE 🧠🤖.<br> My tech toolkit includes coding, data wrangling, deep learning, and AI innovation 🔍🚀.<br> When not coding, you'll find me immersed in creative content creation 🎨📹, graphic design, video stuff and contributing to world. Always learning, always creating, that's me! 🌟🔧
+
+
+
+
+
+
+
 ![Programmer](https://miro.medium.com/v2/resize:fit:640/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif)
 
 ## 🌐 Socials:
