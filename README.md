@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Rohan Vinay Chaudhary 👨‍💻, <br> in my final stretch at VIT-B, diving deep into AI and ML with an MTech in CSE 🧠🤖.<br> My tech toolkit includes coding, data wrangling, deep learning, and AI innovation 🔍🚀.<br> When not coding, you'll find me immersed in creative content creation 🎨📹, graphic design, video stuff and contributing to world. Always learning, always creating, that's me! 🌟🔧
+Hey there! I'm Rohan Vinay Chaudhary 👨‍💻, <br> in my final stretch at VIT-B, diving deep into AI and ML with an MTech in CSE 🧠🤖.<br> My tech toolkit includes coding, data wrangling, deep learning, and AI innovation 🔍🚀.<br> When not coding, you'll find me immersed in creative content creation 🎨📹, graphic design, video stuff and contributing to world.<br> <hr> Always learning, always creating, that's me! 🌟🔧
 
 
 
