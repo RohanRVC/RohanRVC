@@ -6,7 +6,7 @@ Hey there! I'm Rohan Vinay Chaudhary 👨‍💻, <br> in my final stretch at VI
 <a href="https://rohanrvc.pythonanywhere.com/" target="_blank">🔗 Portfolio</a> <br>
 <a href="https://drive.google.com/file/d/1_CY5tTQfOhiKTzyntP9nS2KTGf9b2xfI/view?usp=drive_link" target="_blank">📄 Resume</a>
 
-
+ 
 
 ![Programmer](https://miro.medium.com/v2/resize:fit:640/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif)
 
