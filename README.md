@@ -10,7 +10,6 @@ Hey there! I'm Rohan Vinay Chaudhary 👨‍💻, <br> in my final stretch at VI
 
 ![Programmer](https://miro.medium.com/v2/resize:fit:640/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif) 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanrvc&label=Profile%20views&color=0e75b6&style=flat" alt="rohanrvc" /> </p>
 
