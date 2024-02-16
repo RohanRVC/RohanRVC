@@ -11,7 +11,7 @@ Hey there! I'm Rohan Vinay Chaudhary 👨‍💻, <br> in my final stretch at VI
 ![Programmer](https://miro.medium.com/v2/resize:fit:640/format:webp/1*xNQKHj5vR7w9AcY_bDKYYw.gif) 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanrvc&label=Profile%20views&color=0e75b6&style=flat" alt="rohanrvc" />20 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanrvc&label=Profile%20views&color=0e75b6&style=flat" alt="rohanrvc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohanrvc" alt="rohanrvc" /></a> </p>
 
