@@ -17,7 +17,7 @@ Hey there! I'm Rohan Vinay Chaudhary 👨‍💻, <br> in my final stretch at VI
 
 <p align="left"> <a href="https://twitter.com/rohanrvc45" target="blank"><img src="https://img.shields.io/twitter/follow/rohanrvc45?logo=twitter&style=for-the-badge" alt="rohanrvc45" /></a> </p>
 
-- 🔭 I’m currently working on [Live-Code an platform for coders 👩🏻‍💻](https://github.com/RohanRVC/live-code-collab)
+- 🔭 I’m currently working on [Live-Code an platform for coders 👩🏻‍💻](https://preview--live-code-collab.lovable.app/)
 
 - 📫 How to reach me **rohanrvc45@gmail.com**
 
