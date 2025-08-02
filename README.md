@@ -3,8 +3,8 @@ Hey there! I'm Rohan Vinay Chaudhary 👨‍💻, <br> in my final stretch at VI
   
 
 
-<a href="https://rohanrvc.pythonanywhere.com/" target="_blank" rel="noopener noreferrer">🔗 Portfolio</a> <br>
-<a href="https://drive.google.com/file/d/1qjxn6HEBJK9ci8QbEBn1TULGxoujwpV1/view?usp=sharing" target="_blank" rel="noopener noreferrer">📄 CV/Resume</a>
+<a href="https://rohanrvc.pythonanywhere.com/" onclick="window.open(this.href,'_blank');return false;">🔗 Portfolio</a> <br>
+<a href="https://drive.google.com/file/d/1qjxn6HEBJK9ci8QbEBn1TULGxoujwpV1/view?usp=sharing" onclick="window.open(this.href,'_blank');return false;">📄 CV/Resume</a>
 
  
 
