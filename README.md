@@ -4,7 +4,7 @@ Hey there! I'm Rohan Vinay Chaudhary 👨‍💻, <br> in my final stretch at VI
 
 
 <a href="https://rohanrvc.pythonanywhere.com/" onclick="window.open(this.href,'_blank');return false;">🔗 Portfolio</a> <br>
-<a href="https://drive.google.com/file/d/1wD98KXefne5P8sgBQYEqurD2UIAbCrjp/view?usp=sharing" onclick="window.open(this.href,'_blank');return false;">📄 CV/Resume</a>
+<a href="https://drive.google.com/file/d/1wD98KXefne5P8sgBQYEqurD2UAbCrjp/view?usp=sharing" onclick="window.open(this.href,'_blank');return false;">📄 CV/Resume</a>
 
  
 
