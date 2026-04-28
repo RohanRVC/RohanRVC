@@ -1,7 +1,45 @@
-# 💫 About Me:
-Hey there! I'm Rohan Vinay Chaudhary 👨‍💻, <br> in my final stretch at VIT-B, diving deep into AI and ML with an MTech in CSE 🧠🤖.<br> My tech toolkit includes coding, data wrangling, deep learning, and AI innovation 🔍🚀.<br> When not coding, you'll find me immersed in creative content creation 🎨📹, graphic design, video stuff and contributing to world.<br> <hr> Always learning, always creating, that's me! 🌟🔧
-  
+# 💫 About Me
 
+Hey, I’m **Rohan Vinay Chaudhary** 👨‍💻  
+A recent graduate with an **Integrated M.Tech in Computer Science & Technology (Specialization in AI/ML)** 🧠🤖  
+
+---
+
+## 🚀 What I Do
+
+I work at the intersection of **AI, automation, and real-world problem solving**, building systems that actually *do things* — not just sit in notebooks.  
+
+- 🤖 Building with **LLMs & Agentic Systems**  
+- ⚙️ Creating **AI Automations & Workflows**  
+- ☁️ Deploying scalable solutions on **Cloud (AWS, APIs, etc.)**  
+- 📊 Working with **Data Science & Machine Learning**  
+
+---
+
+## 🌱 Current Focus
+
+I’m currently exploring and building in:
+
+- 🧠 **AI Automation & Agentic Systems**  
+- 🔄 **Workflow Automation (Zapier, n8n, AI tools)**  
+- 🏗️ **Real-world AI products & MVPs**  
+- 💡 Systems that **save time, improve efficiency, and generate value**  
+
+---
+
+## 🎨 Beyond Tech
+
+When I’m not coding, I’m into:
+
+- 🎨 **Graphic Design**  
+- 📹 **Video Editing & Content Creation**  
+- 🧩 **Creative storytelling & digital experiences**  
+
+---
+
+## ⚡ Philosophy
+
+> **Always building. Always learning. Always pushing limits.** 🌟🔧
 
 <a href="https://rohanrvc.pythonanywhere.com/" onclick="window.open(this.href,'_blank');return false;">🔗 Portfolio</a> <br>
 <a href="https://drive.google.com/file/d/1wD98KXefne5P8sgBQYEqurD2UAbCrjp/view?usp=sharing" onclick="window.open(this.href,'_blank');return false;">📄 CV/Resume</a>
